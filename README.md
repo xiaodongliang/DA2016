@@ -1,3 +1,3 @@
-https://xiaodongforgetest.s3-ap-southeast-1.amazonaws.com/result1.pdf?AWSAccessKeyId=AKIAI5Z2P3BJNALZEA4A&Expires=1472107797&Signature=2lqHiDB4WFxWXxIe3KzlhQAp8rs%3D
+https://xiaodongforgetest.s3-ap-southeast-1.amazonaws.com/result1.dwg?AWSAccessKeyId=AKIAI5Z2P3BJNALZEA4A&Expires=1472109488&Signature=%2F8wY2cZ%2B5%2FT%2B9nYLDEF6dbvd%2F04%3D
 
-result1.pdf
+result1.dwg
